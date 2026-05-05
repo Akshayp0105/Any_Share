@@ -4,6 +4,7 @@
 
 **Duckly** is a real-time file and message sharing web app that lets users instantly share **text, images, PDFs, documents, and voice notes** through temporary rooms — without login.
 
+
 🔗 Live Demo: https://duckly-iota.vercel.app
 
 ---
@@ -47,6 +48,7 @@ All in one place — no limitations.
 * 📦 **Multiple File Upload**
 
   * Upload multiple files at once
+
 
 * 🎨 **Theme Modes**
 
@@ -143,6 +145,7 @@ Contributions are welcome! Feel free to fork the repo and submit a PR.
 **Akshay P.**
 📩 [akshay1012005@gmail.com](mailto:akshay1012005@gmail.com)
 🔗 https://www.linkedin.com/in/akshay-p-6b889a288
+
 
 ---
 
