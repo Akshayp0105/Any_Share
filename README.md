@@ -1,4 +1,4 @@
-# 🦆 Duckly
+# 🦆Duckly
 
 > Share anything🌐. Anytime⌚. Anywhere🗺️.
 
