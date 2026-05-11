@@ -14,7 +14,6 @@
 
 A duck can **fly, swim, and walk** — making it an all-rounder.
 
-
 Duckly follows the same idea:
 
 * 📄 Share **documents**
