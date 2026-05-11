@@ -1,6 +1,5 @@
 # 🦆Duckly
 
-
 > Share anything🌐. Anytime⌚. Anywhere🗺️.
 
 **Duckly** is a real-time file and message sharing web app that lets users instantly share **text, images, PDFs, documents, and voice notes** through temporary rooms — without login.
