@@ -10,9 +10,10 @@
 
 ---
 
+
 ## 🦆 Why “Duckly”?
 
-A duck can **fly, swim, and walk** — making it an all-rounder.
+A duck can **fly, swim, and walk** — making it an all-rounder🌟.
 
 Duckly follows the same idea:
 
