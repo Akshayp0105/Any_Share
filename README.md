@@ -22,7 +22,7 @@ Duckly follows the same idea:
 * 🎤 Share **voice notes**
 * 💬 Share **text**
 
-All in one place — no limitations.
+All in one place 💯— no limitations🔥.
 
 ---
 
