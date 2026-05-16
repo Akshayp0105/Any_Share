@@ -9,8 +9,6 @@
 🔗 Live Demo: https://duckly-iota.vercel.app
 
 ---
-
-
 ## 🦆 Why “Duckly”?
 
 A duck can **fly, swim, and walk** — making it an all-rounder🌟.
